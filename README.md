@@ -14,7 +14,7 @@ Each student has their own database and MariaDB user.
 
 - Database username: your Linux username
 - Database password: your student ID
-- Database name: db_<username>
+- Database name: db_\<username\>
 
 Example:
 - Linux username: jdoe
